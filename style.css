@@ -263,6 +263,14 @@ border-bottom: 1px solid white;
              background:#ddd;
          }
     }
+     @media (min-width:324px) and (max-width:648px){
+         .side-col-1,.card-rect,.row-1,.Container-2{
+             width:100vw;
+             margin:auto;
+             background:#ddd;
+             font-size: 1.0vw;
+         }
+    }
      .Container-3{
         width:84vw;
         height:180vw;
