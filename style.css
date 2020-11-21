@@ -1064,6 +1064,10 @@ justify-content: center;
                 height:1.5vw; 
                 margin: auto;
                 text-align: center;
+                display: grid;
+                align-content: center;
+                justify-content: center;
+                place-items:center;
             }
              .Container-6 .Container6-row2 p a:hover{
              	background-color: purple;
