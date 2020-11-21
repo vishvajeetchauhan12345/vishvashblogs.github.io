@@ -1059,4 +1059,11 @@ justify-content: center;
                 text-decoration: none;
                 font-size: 1.2vw;
                 color:red;
+                background-color: white;
+                width:10vw;
+                height:1.5vw; 
+                margin: auto;
             }
+             .Container-6 .Container6-row2 p a:hover{
+             	background-color: purple;
+             }
