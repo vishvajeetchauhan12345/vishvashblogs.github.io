@@ -986,6 +986,9 @@ justify-content: center;
                 margin-top:5vh;
                 box-sizing: content-box;
             }
+            .Container-6 *{
+            	font-size: 1.2vw;
+            }
             .Container-6 header{
                 width:84vw;
                 height:5vw;
