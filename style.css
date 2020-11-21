@@ -182,6 +182,8 @@ border-bottom: 1px solid white;
     background-size: cover;
     margin:auto;
     border-radius: 4vh;
+    display: grid;
+    place-items:center;
   }
   .Container-2 .sub-Container-2 .row-1 .cards img:hover{
       padding:5px 5px;
@@ -194,6 +196,7 @@ border-bottom: 1px solid white;
     text-align: center;
     margin:auto;
     overflow-y: hidden;
+    text-align: center;
   }
 .Container-2 .sub-Container-3{
     width:30vw;
@@ -239,6 +242,8 @@ border-bottom: 1px solid white;
         background-position: center;
         background-size: cover;
         border-radius: 4vh;
+        display: grid;
+        place-items:center;
      }
      .Container-2 .sub-Container-3 .side-col-1 .card-rect .card-side img:hover{
          padding:5px 5px;
@@ -249,6 +254,7 @@ border-bottom: 1px solid white;
         height:6vw;
         font-size: 1.1vw;
         overflow-y: hidden;
+        text-align: center;
      }
      @media (min-width:84vw) and (max-width:100vw){
          body{
