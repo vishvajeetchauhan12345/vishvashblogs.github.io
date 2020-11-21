@@ -1063,7 +1063,9 @@ justify-content: center;
                 width:10vw;
                 height:1.5vw; 
                 margin: auto;
+                text-align: center;
             }
              .Container-6 .Container6-row2 p a:hover{
              	background-color: purple;
+             	color: white;
              }
